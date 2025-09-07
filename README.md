@@ -46,6 +46,10 @@ Typically, you only need to update the database URL, server port, and server URL
 
 ### Running the services
 
+First, create folder `.stone-cli/v0.1.1` in root folder. 
+After, run: `git clone https://github.com/Draply/source.git` and copy all files
+to `.stone-cli/v0.1.1` 
+
 #### Running locally
 
 To run Irelia locally, update the configuration files `00-default.toml` located in
